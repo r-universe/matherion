@@ -8,8 +8,3 @@
 	url = https://gitlab.com/r-packages/limonaid
 	shallow = true
 	registered = true
-[submodule "ufs"]
-	path = ufs
-	url = https://gitlab.com/r-packages/ufs
-	shallow = true
-	registered = true
