@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "limonaid"]
 	path = limonaid
 	url = https://gitlab.com/r-packages/limonaid
-	shallow = true
-	registered = true
