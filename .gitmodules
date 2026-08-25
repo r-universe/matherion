@@ -2,6 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "justifier"]
+	path = justifier
+	url = https://codeberg.org/r-packages/justifier
+[submodule "limonaid"]
+	path = limonaid
+	url = https://codeberg.org/r-packages/limonaid
+[submodule "preregr"]
+	path = preregr
+	url = https://gitlab.com/r-packages/preregr
+[submodule "rock"]
+	path = rock
+	url = https://codeberg.org/r-packages/rock
 [submodule "squids"]
 	path = squids
 	url = https://codeberg.org/r-packages/squids
+[submodule "yum"]
+	path = yum
+	url = https://gitlab.com/r-packages/yum
