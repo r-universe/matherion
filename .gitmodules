@@ -11,9 +11,6 @@
 [submodule "limonaid"]
 	path = limonaid
 	url = https://codeberg.org/r-packages/limonaid
-[submodule "preregr"]
-	path = preregr
-	url = https://gitlab.com/r-packages/preregr
 [submodule "rock"]
 	path = rock
 	url = https://codeberg.org/r-packages/rock
